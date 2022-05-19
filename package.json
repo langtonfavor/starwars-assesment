@@ -5,6 +5,7 @@
   "author": "langtonfavor@gmail.com",
   "repository": "https://github.com/langtonfavor/digicert-assement.git",
   "scripts": {
+    "start": "react-scripts start",
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
@@ -20,6 +21,7 @@
     "react-lottie": "^1.2.3",
     "react-redux": "^7.2.7",
     "react-router-dom": "^6.2.2",
+    "react-scripts": "^5.0.1",
     "redux": "^4.1.2",
     "styled-components": "^5.3.5"
   },

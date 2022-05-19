@@ -52,5 +52,4 @@ The entire app was made by Langton Mudyiwa.
 All Data Provided By [SWAPI](https://swapi.dev/)
 
 [LinkedIn](https://www.linkedin.com/in/langton-favor-mudyiwa)
-# digicert-assement
 # starwars-assesment
